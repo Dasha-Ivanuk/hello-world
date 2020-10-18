@@ -1,2 +1,2 @@
-# hello-world
+# lesson-2
 Just another repository
