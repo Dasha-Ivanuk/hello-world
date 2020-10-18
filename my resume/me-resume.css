@@ -1,0 +1,47 @@
+table {
+    width: 100%;
+}
+td {
+    border: 1px solid #000;
+    padding: 4px;
+}
+h1{
+    background-color: lightseagreen;
+    color: white;
+    text-align: left;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+img{
+    height: 200px;
+    widtht: 200px;
+
+}
+h2{
+    background-color: #888888;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.list{
+    background-color: #cccccc;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+table{
+    background-color: #cccccc;
+    margin-top:0px ;
+}
+.contacts{
+    background-color: #cccccc;
+    color: black;
+}
+section{
+    text-align: center;
+}
+s2 a{
+  display: inline-block;
+    width: 20%;
+}
+.s2 img{
+    width: 100%;
+}
